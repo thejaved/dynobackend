@@ -85,3 +85,4 @@ tsconfig.tsbuildinfo
 !.env.example
 firebase-debug.log
 firebase-debug.*
+/uploads
